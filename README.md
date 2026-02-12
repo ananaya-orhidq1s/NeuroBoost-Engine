@@ -65,3 +65,5 @@ Improving stability in demanding games
 
 NeuroBoost Engine is about pure optimization, transparency, and uncompromising performance.
 Minimum intervention — maximum stability.
+
+DOWNLOAD: https://github.com/ananaya-orhidq1s/NeuroBoost-Engine/releases/tag/NeuroBoost-Engine
